@@ -8,6 +8,7 @@
     "test": "tests"
   },
   "scripts": {
+    "build:run": "tsc && node dist/$npm_config_path",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Khoubaib-Boughalmi/react-but-worse/issues"
   },
-  "homepage": "https://github.com/Khoubaib-Boughalmi/react-but-worse#readme"
+  "homepage": "https://github.com/Khoubaib-Boughalmi/react-but-worse#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
 }
