@@ -1,0 +1,23 @@
+{
+  "name": "react-but-worse",
+  "version": "1.0.0",
+  "description": "A cheap re-implementation of react that is only useful for me",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Khoubaib-Boughalmi/react-but-worse.git"
+  },
+  "author": "khoubaib boughalmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khoubaib-Boughalmi/react-but-worse/issues"
+  },
+  "homepage": "https://github.com/Khoubaib-Boughalmi/react-but-worse#readme"
+}
